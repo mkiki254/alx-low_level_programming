@@ -3,4 +3,5 @@ Task 1: The script compiles a C file but does not link
 Task 2: The script generates the assembly code of C code
 Task 3: The script creates an executable cisfun from the C file $CFILE
 Task 4: C programming that prints usign puts function
+Task 5: C program that prints using the printf and uses a \n escape character
 
