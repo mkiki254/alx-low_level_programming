@@ -6,4 +6,4 @@ Task 4: C programming that prints usign puts function
 Task 5: C program that prints using the printf and uses a \n escape character
 Task 6: C program that prints the size of various types on computer
 Task 7: A script that generates assembly code(intel syntax) of a C code
-
+Task 8: Printing in C program without using printf or puts
