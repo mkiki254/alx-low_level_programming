@@ -3,4 +3,5 @@ Task 1: The program prints whether the last digit of a random number is greater 
 Task 2: The program prints alphabets in lower case followed by a new line
 Task 3: The program prints alphabets in lower case then uppercase followed by a new line
 Task 4: The program prints alphabets in lower case except for q and e
+Task 5: The program prints all digit numbers of base 10
 
