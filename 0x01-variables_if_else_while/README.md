@@ -10,4 +10,4 @@ Task 8: The program prints all the numbers of base 16 in lowercase
 Task 9: The program prints number 1 to 9 separated by commas and spaces
 Task 10: The program prints all possible different combinations of two digits
 Task 11: The program prints all possible different combinations of three digits
-
+Task 12: The program prints from 00 to 99
