@@ -1,9 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
 
-/* betty style doc for function main goes there */
+/**
+ * main - Determines whether the last digit is either greater
+ *  than 5, less than 6 or equal to zero
+ *
+ *  Return: Always 0 (success)
+ */
+
 int main(void)
 {
 	int n, r;
@@ -11,7 +16,7 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	r = n % 10;
-	if(r > 5)
+	if (r > 5)
 	{
 		printf("Last digit of %d is %d and is greater than 5\n", n, r);
 	}
