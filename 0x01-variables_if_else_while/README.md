@@ -5,4 +5,5 @@ Task 3: The program prints alphabets in lower case then uppercase followed by a 
 Task 4: The program prints alphabets in lower case except for q and e
 Task 5: The program prints all digit numbers of base 10
 Task 6: The program prints all digits numbers of base 10 using putchar hence using ASCII
+Task 7: The program prints the lower case alphabets in reverse
 
