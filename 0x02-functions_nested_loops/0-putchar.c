@@ -1,22 +1,21 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
- * main - Prints out _putchar
+ * main - Using _putchar to print _putchar
  *
- * Return: (0) Success
+ * Return: 0 success
  */
 
 int main(void)
 {
-	putchar(95);
-	putchar(112);
-	putchar(117);
-	putchar(116);
-	putchar(99);
-	putchar(104);
-	putchar(97);
-	putchar(114);
-	putchar('\n');
+	char str[8] = "_putchar";
+	int n = 0;
+
+	while (n < 8)
+	{
+		_putchar(str[n]);
+		n++;
+	}
+	_putchar('\n');
 	return (0);
 }
