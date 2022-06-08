@@ -8,6 +8,14 @@
 
 int main(void)
 {
-	_putchar("_putchar");
+	char str[8] = "_putchar";
+	int n = 0;
+
+	while (n < 8)
+	{
+		_putchar(str[n]);
+		n++;
+	}
+	_putchar('\n');
 	return (0);
 }
