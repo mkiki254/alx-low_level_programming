@@ -3,4 +3,5 @@ Task 1: A function that prints the alphabets in lower case
 Task 2: A function that prints the alphabets in lower case ten times
 Task 3: A function that checks whether the input is alphabet in lower case
 Task 4: A function that checks whether the input is alphabet in both lower and upper case
+Task 5: A function that prints the sign of a number
 
