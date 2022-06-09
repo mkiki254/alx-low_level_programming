@@ -7,4 +7,5 @@ Task 5: A function that prints the sign of a number
 Task 6: A function that returns absolute value of a number
 Task 7: A function that prints the last digit of a number
 Task 8: A function that prints every minute of the day
+Task 9: A function that prints a 9 by 9 multiplication table
 
