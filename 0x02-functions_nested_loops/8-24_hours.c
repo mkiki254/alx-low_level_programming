@@ -1,36 +1,29 @@
 #include "main.h"
 
 /**
- * jack_bauer - Function that prints every minute of the day
+ * jack_bauer - Prints the minutes of a day
+ *
+ * Return: no return
  */
-
 void jack_bauer(void)
 {
-	char str[3] = "012";
-	int h;
+	int a, b, c, d;
 
-	for (h = 0; h < 3; h++)
+	for (a = 48; a <= 50; a++)
 	{
-		char str1[24] = "012345678901234567890123";
-		int i;
-
-		for (i = 0; i < 24; i++)
+		for (b = 48; b <= 57; b++)
 		{
-			char str2[6] = "012345";
-			int j;
-
-			for (j = 0; j < 6; j++)
+			for (c = 48; c <= 53; c++)
 			{
-				char str3[10] = "0123456789";
-				int k;
-
-				for (k = 0; k < 10; k++)
+				for (d = 48; d <= 57; d++)
 				{
-					_putchar(str[h]);
-					_putchar(str1[i]);
-					_putchar(':');
-					_putchar(str2[j]);
-					_putchar(str3[k]);
+					if (a >= 50 && b >= 52)
+						break;
+					_putchar(a);
+					_putchar(b);
+					_putchar(58);
+					_putchar(c);
+					_putchar(d);
 					_putchar('\n');
 				}
 			}
