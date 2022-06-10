@@ -8,4 +8,6 @@ Task 6: Function that prints lines
 Task 7: Function that prints diagonals
 Task 8: Function that prints squares
 Task 9: Program that shows the FizzBuzz test
-Task 10: Function that prints triangles 
+Task 10: Function that prints triangles
+Task 11: Program that prints the largest prime factor of a number
+ 
