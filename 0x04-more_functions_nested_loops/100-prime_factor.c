@@ -7,19 +7,18 @@
  */
 int main(void)
 {
-	int i;
-	long int num, large = 0;
+	long int i, num;
 
 	num = 612852475153;
 
-	for (i = 2; num != 1; ++i)
+	for (i = 2; i <= num; i++)
 	{
-		while (num % i == 0)
+		if (num % i == 0)
 		{
 			num = num / i;
-			large = i;
+			i--;
 		}
 	}
-	printf("%ld\n", large);
+	printf("%ld\n", i);
 	return (0);
 }
