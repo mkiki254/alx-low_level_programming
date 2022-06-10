@@ -10,4 +10,4 @@ Task 8: Function that prints squares
 Task 9: Program that shows the FizzBuzz test
 Task 10: Function that prints triangles
 Task 11: Program that prints the largest prime factor of a number
- 
+Task 12: Printing any integers without using standard output in C 
