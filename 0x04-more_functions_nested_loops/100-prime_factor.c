@@ -20,6 +20,6 @@ int main(void)
 			large = i;
 		}
 	}
-	printf("%ld \n", large);
+	printf("%ld\n", large);
 	return (0);
 }
