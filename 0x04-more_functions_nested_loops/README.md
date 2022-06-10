@@ -7,4 +7,5 @@ Task 5: Function that prints numbers from 0 to 14 ten times
 Task 6: Function that prints lines of n when n is greater than 0
 Task 7: Function that prints diagonals of n when n is greater than 0
 Task 8: Function that prints squares of n when n is greater than 0
+Task 9: Program that shows the FizzBuzz test
 
