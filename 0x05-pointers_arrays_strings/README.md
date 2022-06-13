@@ -6,4 +6,5 @@ Task 4: The function prints a string in reverse
 Task 5: The function reverses a string
 Task 6: The function prints one char out of two of string
 Task 7: The function prints half of the string
+Task 8: The function prints n elements of an array of integers
 
