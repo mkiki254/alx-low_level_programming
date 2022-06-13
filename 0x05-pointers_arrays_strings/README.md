@@ -8,4 +8,5 @@ Task 6: The function prints one char out of two of string
 Task 7: The function prints half of the string
 Task 8: The function prints n elements of an array of integers
 Task 9: The function copies the string pointed to by the src
+Task 10: The function converts a string to an integer
 
