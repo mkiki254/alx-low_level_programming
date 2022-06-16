@@ -10,3 +10,4 @@ Task 8: The function encodes a string using rot13
 Task 9: The function prints an integer
 Task 10: Adding a line for the program to assign a[2] to 98
 Task 11: The function adds two numbers
+Task 12: The function prints a buffer
