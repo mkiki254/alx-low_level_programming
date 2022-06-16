@@ -8,3 +8,4 @@ Task 6: The function capitalizes all words of a string
 Task 7: The function encodes a string into 1337
 Task 8: The function encodes a string using rot13
 Task 9: The function prints an integer
+Task 10: Adding a line for the program to assign a[2] to 98
