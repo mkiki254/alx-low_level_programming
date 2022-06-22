@@ -14,5 +14,9 @@ void _puts_recursion(char *s)
 		return;
 	}
 	_putchar(*s);
+	/**
+	 * You are adding one to the address because
+	 * character has one byte
+	 */
 	_puts_recursion(s + 1);
 }
