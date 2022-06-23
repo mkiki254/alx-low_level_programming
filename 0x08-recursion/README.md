@@ -6,3 +6,4 @@ Task 4: The function returns the value of x raised to the power of y using recur
 Task 5: The function returns the natural square root of a number
 Task 6: The function determines whether a number is a prime number
 Task 7: The function checks whether a string is a palindrome
+Task 8: The function checks if two strings can be considered to be identical

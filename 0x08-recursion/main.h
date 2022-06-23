@@ -12,5 +12,6 @@ int _sqrt_recursion_wrapper(int n, int guess);
 int is_prime_number(int n);
 int is_prime_number_wrapper(int n, int i);
 int is_palindrome(char *s);
+int wildcmp(char *s1, char *s2);
 
 #endif
