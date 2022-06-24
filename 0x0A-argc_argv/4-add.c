@@ -12,14 +12,12 @@
 int main(int argc, char *argv[])
 {
 	int i, sum = 0;
-	char c;
 
 	if (argc > 1)
 	{
-		for (i = 1; i < argc && *argv[i] != '\0'; i++)
+		for (i = 1; i < argc; i++)
 		{
-			c = *argv[i];
-			if (!(isdigit(c)))
+			if (!isdigit(*argv[i]))
 			{
 				printf("Error\n");
 				return (1);
