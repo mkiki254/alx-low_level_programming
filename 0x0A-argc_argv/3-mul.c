@@ -10,13 +10,14 @@
  */
 int main(int argc, char *argv[])
 {
-	int i, product = 1;
+	int num1, num2, prod;
 
 	if (argc > 1)
 	{
-		for (i = 1; i < argc; i++)
-			product *= atoi(argv[i]);
-		printf("%d\n", product);
+		num1 = atoi(argv[1]);
+		num2 = atoi(argv[2]);
+		prod = num1 * num2;
+		printf("%d\n", prod);
 		return (0);
 	}
 	else
